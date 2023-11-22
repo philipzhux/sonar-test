@@ -4,3 +4,4 @@ def hello(s):
 	print(s)
 
 hello("Hello again")
+a = input()
